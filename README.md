@@ -1,5 +1,4 @@
-# aws-iot-mqtt
-
+#https://drive.google.com/file/d/16oOtnp4q4DW28nCztWtMXgDcmeo1hAbR/view consegna
 Cloud & Devops Master - PROJECT WORK
 Proge;are e configurare un’archite;ura cloud per il monitoraggio e
 controllo di impianC industriali
@@ -19,11 +18,11 @@ Si chiede di seguire un approccio completo che includa la proge;azione dell'arch
 l’oEmizzazione dei daC da inviare e meccanismi di allarme in tempo reale.
 I vincoli della proge;azione sono:
 - proge;are un'archite;ura scalabile ed efficiente che consenta la connessione delle
-schede dei disposiCvi al gateway esterno, l'invio e la ricezione dei daC in cloud AWS
-- sicurezza dei protocolli di comunicazione
+schede dei disposiCvi al gateway esterno, l'invio e la ricezione dei daC in cloud AWS -
+sicurezza dei protocolli di comunicazione
 - affidabilità delle connessioni
-- il costo a macchina per i servizi cloud non deve superare € 0,50 / anno
-Il team potrà scegliere i servizi AWS che riCene più adeguaC all’o;enimento del risultato.
+- il costo a macchina per i servizi cloud non deve superare € 0,50 / anno Il team
+potrà scegliere i servizi AWS che riCene più adeguaC all’o;enimento del risultato.
 Successivamente, bisognerà studiare una tecnica per oEmizzare al massimo la dimensione
 dei daC da inviare in cloud, per evitare duplicazioni di informazioni, ma pensando anche che
 dovranno essere facilmente interrogabili da API o query SQL.
@@ -31,13 +30,14 @@ Le schede prevedono diversi Cpi di variabili, che cambiano in base alla Cpologia
 Ogni variabile è idenCficata da un codice univoco (indirizzo MODBUS).
 Un Cpo di variabile che le schede producono sono gli allarmi: errori o guasC nella macchina.
 Sono gli stessi per tu;e le macchine: un insieme di allarmi di esempio è il seguente.
-Codice Descrizione Tipologia
+Codi
+ce
+Descrizione Tipologia
 500 allarme generico boolean
 501 allarme sonde macchina boolean
 502 allarmi ingressi boolean
 503 allarmi da logiche boolean
 504 allarmi circuito frigo 1 boolean
-
 505 allarmi circuito frigo 2 boolean
 506 allarmi rese;abili boolean
 507 allarmi non rese;abili boolean
@@ -88,7 +88,6 @@ Codice Descrizione Tipologia
 8 Warning filtri sporchi boolean
 9 Allarme generico boolean
 10 Reset allarmi boolean
-
 11 Abilitazione deumidifica boolean
 12 Abilitazione riscaldamento boolean
 13 Abilitazione raffreddamento boolean
@@ -141,7 +140,6 @@ Codice Descrizione Tipologia
 21 Allarme bassa pressione boolean
 22 Allarme macchina scarica boolean
 23 Allarme bassa temperatura per ON compressore boolean
-
 24 Allarme sovratemperatura resistenza ele;rica boolean
 25 Allarme sovratemperatura resistenza ele;rica boolean
 26 Allarme venClatore boolean
@@ -149,8 +147,8 @@ Codice Descrizione Tipologia
 28 Richiesta deumidifica boolean
 29 Richiesta riscaldamento boolean
 30 Richiesta raffreddamento boolean
-Le macchine producono anche variabili analogiche (solamente interi e decimali): anche queste
-disCnte in base alla Cpologia.
+Le macchine producono anche variabili analogiche (solamente interi e decimali): anche
+queste disCnte in base alla Cpologia.
 Tipologia A
 Codice Descrizione Tipologia
 1 temperatura ambiente float
@@ -191,7 +189,6 @@ Codice Descrizione Tipologia
 9 Differenziale on riscaldamento float
 10 Differenziale off riscaldamento float
 11 Inizio rampa umidifica float
-
 12 Fine rampa umidifica float
 13 Offset temperatura ambiente float
 14 Offset umidità ambiente float
@@ -210,22 +207,22 @@ Codice Descrizione Tipologia
 resistente a future aggiunte di nuove variabili o macchine, in modo da poter inviare tuE i daC
 necessari tramite MQTT in formato binario, numerico e/o stringa.
 Infine, è richiesto di proge;are meccanismi di allarme in tempo reale che segnalino eventuali
-anomalie o condizioni criCche. Questo consenCrà all'azienda di essere prontamente informata
-di qualsiasi situazione che richieda un intervento immediato. Sfru;ate i servizi di monitoraggio
-e allarme di AWS per implementare questa funzionalità.
+anomalie o condizioni criCche. Questo consenCrà all'azienda di essere prontamente
+informata di qualsiasi situazione che richieda un intervento immediato. Sfru;ate i servizi di
+monitoraggio e allarme di AWS per implementare questa funzionalità.
 L’aspe;o più importante di questo project work è l'inclusione dei cosC dell'infrastru;ura e del
 servizio nel costo delle macchine di deumidificazione. Ciò significa che è richiesto di tenere i
 cosC dell’infrastru;ura più bassi possibile.
 È richiesto di calcolare e presentare i cosC associaC all'infrastru;ura implementata, in modo
 che l'azienda possa includerli nel prezzo finale delle loro macchine.
 Ricordiamo che l’intera proge;azione dovrà essere svolta secondo le best pracCce di AWS per
-quanto riguarda la sicurezza, la scalabilità e l'oEmizzazione dei cosC durante l'intero processo.
-
+quanto riguarda la sicurezza, la scalabilità e l'oEmizzazione dei cosC durante l'intero
+processo.
 Output a;esi
 Il team dovrà consegnare la seguente documentazione:
 - Documento di proge;o con assunzioni fa;e per la realizzazione della proposta fa;a e
 calculator dei cosC teorici di infrastru;ura
 - Template CDK dell’archite;ura
 - Codice sorgente degli script scriE per simulare un impianto
-- Screenshot cost explorer dei cosC di infrastru;ura reali e confronto con il calcolo
-teorico mappando eventuali azioni di miglioramento
+- Screenshot cost explorer dei cosC di infrastru;ura reali e confronto con il calcolo teorico
+mappando eventuali azioni di miglioramento
