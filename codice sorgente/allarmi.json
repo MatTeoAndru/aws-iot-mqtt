@@ -1,0 +1,242 @@
+[
+    {
+      "Codice": 500,
+      "Descrizione": "allarme generico",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 501,
+      "Descrizione": "allarme sonde macchina",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 502,
+      "Descrizione": "allarmi ingressi",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 503,
+      "Descrizione": "allarmi da logiche",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 504,
+      "Descrizione": "allarmi circuito frigo 1",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 505,
+      "Descrizione": "allarmi circuito frigo 2",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 506,
+      "Descrizione": "allarmi resettabili",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 507,
+      "Descrizione": "allarmi non resettabili",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 550,
+      "Descrizione": "guasto sonda CO2 ambiente",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 551,
+      "Descrizione": "guasto sonda VOC ambiente",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 552,
+      "Descrizione": "guasto sonda temperatura ambiente",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 553,
+      "Descrizione": "guasto sonda temperatura esterna",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 554,
+      "Descrizione": "guasto sonda temperatura acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 555,
+      "Descrizione": "guasto sonda temperatura mandata",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 556,
+      "Descrizione": "guasto sonda temperatura protezione antigelo batt acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 557,
+      "Descrizione": "guasto sonda temperatura sbrinamento recuperatore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 558,
+      "Descrizione": "guasto sonda umidità ambiente",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 600,
+      "Descrizione": "allarme resistenze elettriche grave",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 601,
+      "Descrizione": "allarme resistenze elettriche lieve",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 602,
+      "Descrizione": "allarme fuga gas",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 603,
+      "Descrizione": "allarme ventilazione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 604,
+      "Descrizione": "allarme ventilatore ricircolo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 605,
+      "Descrizione": "allarme ventilatore estrazione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 606,
+      "Descrizione": "allarme ventilatore condensazione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 607,
+      "Descrizione": "allame flussostato grave",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 608,
+      "Descrizione": "allarme flussostato lieve",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 609,
+      "Descrizione": "allarme sequenza fasi",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 650,
+      "Descrizione": "segnalazione pulire filtri",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 651,
+      "Descrizione": "segnalazione pulire tubo ionizzatore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 652,
+      "Descrizione": "segnalazione sostituire tubo ionizzatore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 653,
+      "Descrizione": "allarme protezione antigelo batteria acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 654,
+      "Descrizione": "allarme protezione batteria acqua lieve",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 655,
+      "Descrizione": "allarme alta temperatura acqua per on compressore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 656,
+      "Descrizione": "allarme bassa temperatura per on compressore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 657,
+      "Descrizione": "allarme antigelo batteria acqua kit controllo temperatura mandata grave",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 658,
+      "Descrizione": "allarme antigelo batteria acqua kit controllo temperatura mandata lieve",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 659,
+      "Descrizione": "allarme macchina scarica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 660,
+      "Descrizione": "allarme mancanza comunicazione con display",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 661,
+      "Descrizione": "allarme mancanza comunicazione con ionizzatore",
+      "Tipologia": "boolean",
+      "Device": " "
+    },
+    {
+      "Codice": 662,
+      "Descrizione": "allarme mancanza comunicazione modbus master",
+      "Tipologia": "boolean",
+      "Device": " "
+    }
+  ]  

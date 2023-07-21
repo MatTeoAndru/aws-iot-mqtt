@@ -1,0 +1,224 @@
+[
+    {
+      "Codice": 1,
+      "Descrizione": "On / Off",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 2,
+      "Descrizione": "On effettivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 3,
+      "Descrizione": "Stagione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 4,
+      "Descrizione": "Stagione effettiva",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 5,
+      "Descrizione": "Abilitazione fasce orarie su display macchina",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 6,
+      "Descrizione": "Deumidifica attiva",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 7,
+      "Descrizione": "Richiesta acqua per trattamento aria",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 8,
+      "Descrizione": "Warning filtri sporchi",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 9,
+      "Descrizione": "Allarme generico",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 10,
+      "Descrizione": "Reset allarmi",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 11,
+      "Descrizione": "Abilitazione deumidifica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 12,
+      "Descrizione": "Abilitazione riscaldamento",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 13,
+      "Descrizione": "Abilitazione raffreddamento",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 14,
+      "Descrizione": "Abilitazione free-cooling\\heating",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 15,
+      "Descrizione": "Presenza riscaldamento dell’aria",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 16,
+      "Descrizione": "Presenza raffreddamento dell’aria",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 17,
+      "Descrizione": "Presenza recuperatore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 18,
+      "Descrizione": "Presenza free-cooling\\heating",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 19,
+      "Descrizione": "Riscaldamento attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 20,
+      "Descrizione": "Raffreddamento attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 21,
+      "Descrizione": "Ricambio attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 22,
+      "Descrizione": "Free-cooling\\heating aEvo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 23,
+      "Descrizione": "Sbrinamento attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 24,
+      "Descrizione": "Abilitazione riduzione ventilazione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 25,
+      "Descrizione": "Abilitazione umidifica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 26,
+      "Descrizione": "Sbrinamento recuperatore attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 27,
+      "Descrizione": "Presenza condensatore remoto",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 28,
+      "Descrizione": "Presenza valvola acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 29,
+      "Descrizione": "Presenza valvola acqua on-off",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 30,
+      "Descrizione": "Presenza valvola acqua modulante",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 31,
+      "Descrizione": "Presenza e abilitazione batteria acqua calda",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 32,
+      "Descrizione": "Presenza e abilitazione batteria acqua fredda",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 33,
+      "Descrizione": "Presenza controllo temperatura",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 34,
+      "Descrizione": "On compressore 1",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 35,
+      "Descrizione": "On compressore 2",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 36,
+      "Descrizione": "On ventilatore mandata",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 37,
+      "Descrizione": "On resistenza elettriche",
+      "Tipologia": "boolean",
+      "Device": ""
+    }
+  ]  

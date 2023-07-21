@@ -1,0 +1,182 @@
+[
+    {
+      "Codice": 1,
+      "Descrizione": "Unità ON",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 2,
+      "Descrizione": "Forzatura deumidifica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 3,
+      "Descrizione": "Abilitazione forzatura deumidifica [1]",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 4,
+      "Descrizione": "Forzatura riscaldamento [2]",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 5,
+      "Descrizione": "Abilitazione forzatura riscaldamento [1]",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 6,
+      "Descrizione": "Reset allarmi",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 7,
+      "Descrizione": "Reset pulizia filtri",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 8,
+      "Descrizione": "Forzatura raffreddamento [2]",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 9,
+      "Descrizione": "Abilitazione forzatura raffreddamento [1]",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 10,
+      "Descrizione": "Stato compressore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 11,
+      "Descrizione": "Stato valvola acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 12,
+      "Descrizione": "Stato resistenza elettrica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 13,
+      "Descrizione": "Presenza valvola acqua",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 14,
+      "Descrizione": "Presenza resistenza elettrica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 15,
+      "Descrizione": "Presenza allarme",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 16,
+      "Descrizione": "Filtri da pulire",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 17,
+      "Descrizione": "Presenza ventilatori elettronici",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 18,
+      "Descrizione": "Presenza opzione sbrinamento gas caldo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 19,
+      "Descrizione": "Allarme sonda",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 20,
+      "Descrizione": "Allarme alta pressione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 21,
+      "Descrizione": "Allarme bassa pressione",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 22,
+      "Descrizione": "Allarme macchina scarica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 23,
+      "Descrizione": "Allarme bassa temperatura per ON compressore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 24,
+      "Descrizione": "Allarme sovratemperatura resistenza elettrica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 25,
+      "Descrizione": "Allarme sovratemperatura resistenza elettrica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 26,
+      "Descrizione": "Allarme ventilatore",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 27,
+      "Descrizione": "Sbrinamento attivo",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 28,
+      "Descrizione": "Richiesta deumidifica",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 29,
+      "Descrizione": "Richiesta riscaldamento",
+      "Tipologia": "boolean",
+      "Device": ""
+    },
+    {
+      "Codice": 30,
+      "Descrizione": "Richiesta raffreddamento",
+      "Tipologia": "boolean",
+      "Device": ""
+    }
+  ]  

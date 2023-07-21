@@ -1,0 +1,152 @@
+[
+    {
+      "Codice": 1,
+      "Descrizione": "Forzatura umidifica",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 2,
+      "Descrizione": "Set temperatura",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 3,
+      "Descrizione": "Set umidità relativa",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 4,
+      "Descrizione": "Ventilatore di ricircolo in standby (1 == Off, 2 == Minima, 3 === Nominale)",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 5,
+      "Descrizione": "Differenziale on raffreddamento",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 6,
+      "Descrizione": "Differenziale off raffreddamento",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 7,
+      "Descrizione": "Differenziale on deumidifica",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 8,
+      "Descrizione": "Differenziale off deumidifica",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 9,
+      "Descrizione": "Differenziale on riscaldamento",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 10,
+      "Descrizione": "Differenziale off riscaldamento",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 11,
+      "Descrizione": "Inizio rampa umidifica",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 12,
+      "Descrizione": "Fine rampa umidifica",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 13,
+      "Descrizione": "Offset temperatura ambiente",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 14,
+      "Descrizione": "Offset umidità ambiente",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 15,
+      "Descrizione": "Ore di attesa promemoria pulizia filtri",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 16,
+      "Descrizione": "Taratura fase 1 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 17,
+      "Descrizione": "Taratura fase 2 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 18,
+      "Descrizione": "Taratura fase 2 – ventilatore estrazione",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 19,
+      "Descrizione": "Taratura fase 3 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 20,
+      "Descrizione": "Taratura fase 3 – serranda ricircolo",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 21,
+      "Descrizione": "Taratura fase 1 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 22,
+      "Descrizione": "Taratura fase 2 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 23,
+      "Descrizione": "Taratura fase 2 – ventilatore estrazione",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 24,
+      "Descrizione": "Taratura fase 3 – ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 25,
+      "Descrizione": "Taratura fase 3 – serranda ricircolo",
+      "Tipologia": "integer",
+      "Device": ""
+    }
+  ]  

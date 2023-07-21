@@ -1,0 +1,152 @@
+[
+    {
+      "Codice": 1,
+      "Descrizione": "temperatura ambiente",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 2,
+      "Descrizione": "temperatura esterna",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 3,
+      "Descrizione": "umidità relativa ambiente",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 4,
+      "Descrizione": "set umidità relativa",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 5,
+      "Descrizione": "set umidità relativa effettiva",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 6,
+      "Descrizione": "set temperatura / set temperatura inverno",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 7,
+      "Descrizione": "set temperatura estate",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 8,
+      "Descrizione": "set temperatura effettivo",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 9,
+      "Descrizione": "Percentuale ventilatore mandata",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 10,
+      "Descrizione": "Percentuale ventilatore estrazione",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 11,
+      "Descrizione": "Percentuale valvola acqua",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 12,
+      "Descrizione": "Percentuale umidificatore",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 13,
+      "Descrizione": "Percentuale valvola gas",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 14,
+      "Descrizione": "Percentuale serranda free-cooling",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 15,
+      "Descrizione": "Percentuale serranda ricircolo",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 16,
+      "Descrizione": "Set sbrinamento statico",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 17,
+      "Descrizione": "Differenziale sbrinamento statico",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 18,
+      "Descrizione": "Tempo sgocciolamento sbrinamento statico",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 19,
+      "Descrizione": "Temperatura mandata in ambiente",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 20,
+      "Descrizione": "Versione software",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 21,
+      "Descrizione": "Percentuale ricambio, step fisso e minimo di 5%",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 22,
+      "Descrizione": "Percentuale ricambio effettivo",
+      "Tipologia": "integer",
+      "Device": ""
+    },
+    {
+      "Codice": 23,
+      "Descrizione": "Temperatura protezione batteria acqua",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 24,
+      "Descrizione": "Temperatura ingresso batteria acqua",
+      "Tipologia": "float",
+      "Device": ""
+    },
+    {
+      "Codice": 25,
+      "Descrizione": "temperatura ambiente",
+      "Tipologia": "float",
+      "Device": ""
+    }
+  ]  
